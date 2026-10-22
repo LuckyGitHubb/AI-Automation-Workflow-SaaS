@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/LuckyGitHubb/AI-Automation-Workflow-SaaS-Backend.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/LuckyGitHubb/AI-Automation-Workflow-SaaS-Frontend.git
